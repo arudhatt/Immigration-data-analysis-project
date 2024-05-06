@@ -1,0 +1,1 @@
+This projects takes few csv files and save that data to a MySQL database. This immigration and refugee data is then analysized based on different demographics and I have performed time series analysis as well.
